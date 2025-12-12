@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "逆転",
+  "base_artist": "春猿火",
+  "createdAt": "2025-12-12T13:27:39.934104Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "逆転",
+      "artist": "Ryokuoushoku Shakai",
+      "has_synced": false,
+      "path": "select/01_逆転_Ryokuoushoku_Shakai.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "逆転",
+      "artist": "Ryokuoushoku Shakai",
+      "has_synced": true,
+      "path": "select/02_逆転_Ryokuoushoku_Shakai.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "逆転",
+      "artist": "春猿火",
+      "has_synced": true,
+      "path": "select/03_逆転_春猿火.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "逆転 - Gyakuten",
+      "artist": "Ryokuoushoku Shakai",
+      "has_synced": true,
+      "path": "select/04_逆転_-_Gyakuten_Ryokuoushoku_Shakai.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "逆転",
+      "artist": "春猿火",
+      "has_synced": false,
+      "path": "select/pl_01_逆転_春猿火.txt"
+    }
+  ]
+}
